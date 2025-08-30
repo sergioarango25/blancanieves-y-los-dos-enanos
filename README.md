@@ -7,6 +7,6 @@ De esta manera Speedy Gonzales no solo te lleva comida, sino que cuida tu bienes
 
 Grupo conformado por: 
 
-Sebastian Certuche
-Sergio Arango
+Sebastian Certuche,
+Sergio Arango y
 Camila Gomez
